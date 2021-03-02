@@ -1,0 +1,2 @@
+# zLinkchain-node
+This Project is about to connect off-chain node like external server to zilliqa with help of scilla smart contract language to make a  HTTP-Request (GET, POST, DELETE, PUT) from smart contract to node server. The Node Server execute the HTTP-Request and response to the caller smart contract with callback transition. The name of callback transition and path of HTTP-Request must be represent in the Request. 
